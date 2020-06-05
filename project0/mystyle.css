@@ -1,0 +1,17 @@
+/* myStyle.css */
+body {
+ background-color:#A30;
+ color: #FFFFFF;
+}
+h1 {
+ color: #FFFF33;
+ text-align: center;
+ font: italic 200% fantasy;
+}
+p {
+ background-color: #A30;
+ color: #333300;
+ text-align: left;
+ border: 3px groove #FFFF33;
+} 
+<p class="test">test cuz i misread shit</p>
